@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vishalkhondre/Space%20Game%20-%20Web%20Pipeline/_apis/build/status/vishalkhondre.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vishalkhondre/Space%20Game%20-%20Web%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
